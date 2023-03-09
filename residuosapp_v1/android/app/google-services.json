@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409727386207",
+    "project_id": "flutter-test-crud-6eb19",
+    "storage_bucket": "flutter-test-crud-6eb19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409727386207:android:07b0e4e82266a094c4d1ea",
+        "android_client_info": {
+          "package_name": "com.example.residuosapp_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409727386207-ak411ei7ic7ja15srj1lm7khe27puc63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAESR0S9POjYRYfXXT71UOKD4xjJn6rO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409727386207-ak411ei7ic7ja15srj1lm7khe27puc63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
